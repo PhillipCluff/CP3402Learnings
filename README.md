@@ -1,2 +1,2 @@
-# CP3406Learnings
+# CP3402Learnings
 A learning  journal.
